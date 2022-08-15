@@ -1,0 +1,28 @@
+{
+    "program": {
+        "uuid": "Eo8fBs",
+        "candyMachine": "Eo8fBsgUrFdjhqJADreenvWfDDB2U4VTTF1sDd8tRT12"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/ZmpJpzL5SlXWiRd_bgAMQc43KIHMEI6uTxUJrKBkz_E",
+            "name": "CAT 0",
+            "onChain": true,
+            "verifyRun": false
+        },
+        "1": {
+            "link": "https://arweave.net/KlronZQ5jIWbPDo4n_vBdR6UyHc3JjGG9QzTFy4krp0",
+            "name": "CAT 1",
+            "onChain": true,
+            "verifyRun": false
+        },
+        "2": {
+            "link": "https://arweave.net/McoKpl3vHKv1su2BODSfdsy45nv3LK1n5SCzyDLKwyY",
+            "name": "CAT 2",
+            "onChain": true,
+            "verifyRun": false
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp"
+}
