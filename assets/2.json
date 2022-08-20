@@ -1,6 +1,6 @@
 {
-    "name": "CAT 2",
-    "symbol": "CA2",
+    "name": "dog",
+    "symbol": "DOG",
     "image": "2.png",
     "properties": {
       "files": [
@@ -12,7 +12,7 @@
       "creators": [
         {
           "address": "7M4DMFMpATHmkAG5gJr2enHEHVGvqnEqksg7UvhJjzrV",
-          "share": 50
+          "share": 100
         }
       ]
     }

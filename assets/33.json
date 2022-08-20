@@ -1,11 +1,11 @@
 {
     "name": "dog",
     "symbol": "DOG",
-    "image": "0.png",
+    "image": "33.png",
     "properties": {
       "files": [
         {
-          "uri": "0.png",
+          "uri": "33.png",
           "type": "image/png"
         }
       ],
